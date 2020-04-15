@@ -2,7 +2,7 @@
 Basic code to connect node with mogodb
 
 1. Install Mongodb and node in system
-2. Go to the respective directory and use following commands to import documents in the collection 
+2. Go to the respective directory and use following commands to import documents in the collection <br>
 a. mongoimport --db "DB_NAME" --collection "COLLECTION_NAME" --jsonArray --file "JSON_FILE_NAME"
 eg: mongoimport --db moviehub --collection movies --jsonArray --file movie.json
 b. mongo
