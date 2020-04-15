@@ -12,3 +12,5 @@ e. show collections<br>
 f. db."COLLECTION_NAME".find()   "To see documents from the collection COLLECTION_NAME"<br>
 g. Run the index.js to console the documents.<br>
     node index.js<br>
+
+# NOTE: In my case learningmongo is my database name and movie is my  collection
