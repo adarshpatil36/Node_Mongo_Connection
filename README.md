@@ -13,4 +13,4 @@ f. db."COLLECTION_NAME".find()   "To see documents from the collection COLLECTIO
 g. Run the index.js to console the documents.<br>
     node index.js<br>
 
-# NOTE: In my case learningmongo is my database name and movie is my  collection
+## NOTE: In my case learningmongo is my database name and movie is my  collection
