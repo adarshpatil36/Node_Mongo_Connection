@@ -13,8 +13,8 @@ f. db."COLLECTION_NAME".find()   "To see documents from the collection COLLECTIO
 g. Run the index.js to start the server.<br>
     node index.js<br>
 
-http://localhost:8080/api/list To list the locations
-http://localhost:8080/api/count Total count of battles
-http://localhost:8080/api/search?king=Robb%20Stark&location=Riverrun&battle_type=siege Multiple Query paramters
+http://localhost:8080/api/list To list the locations<br>
+http://localhost:8080/api/count Total count of battles<br>
+http://localhost:8080/api/search?king=Robb%20Stark&location=Riverrun&battle_type=siege Multiple Query paramters<br>
 
 #### NOTE: In my case learningmongo is my database name and movie is my  collection
