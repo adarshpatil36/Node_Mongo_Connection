@@ -10,7 +10,11 @@ c. show dbs  "To see databases"<br>
 d. use "DB_NAME" "To use the database"<br>
 e. show collections<br>
 f. db."COLLECTION_NAME".find()   "To see documents from the collection COLLECTION_NAME"<br>
-g. Run the index.js to console the documents.<br>
+g. Run the index.js to start the server.<br>
     node index.js<br>
+
+http://localhost:8080/api/list To list the locations
+http://localhost:8080/api/count Total count of battles
+http://localhost:8080/api/search?king=Robb%20Stark&location=Riverrun&battle_type=siege Multiple Query paramters
 
 #### NOTE: In my case learningmongo is my database name and movie is my  collection
